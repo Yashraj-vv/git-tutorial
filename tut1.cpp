@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    char ch = 'b';
+    char ch = 'c';
     cout << ch;
     return 0;
 }
